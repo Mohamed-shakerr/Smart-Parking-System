@@ -37,4 +37,4 @@ Smart Parking System replaces manual parking management with a clean, efficient 
 
 **Mohamed Shaker** — Full-Stack Developer
 - LinkedIn: [linkedin.com/in/mohamed-shaker](https://www.linkedin.com/in/mohamad-shaker-7369a1402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- GitHub: [github.com/mo7medsha7er-prog](https://github.com/mo7medsha7er-prog)
+- - GitHub: [github.com/Mohamed-shakerr](https://github.com/Mohamed-shakerr)
